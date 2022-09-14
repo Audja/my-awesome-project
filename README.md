@@ -1,3 +1,1 @@
-# my-awesome-project
-
-Test to expreriment notions like push, clone and pull
+Achievement clone and pull
